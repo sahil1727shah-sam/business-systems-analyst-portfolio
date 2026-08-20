@@ -2,7 +2,7 @@
 
 Aspiring Business Systems Analyst building hands-on, end-to-end project experience in requirements analysis, SQL, process modeling, and dashboarding. This repo documents my daily learning and 3 full case-study projects, built over a focused 90-day sprint.
 
-📄 [Resume](Sahil_Shah_Resume.pdf) • 💼 [LinkedIn](www.linkedin.com/in/sahil-shah-s17299s) • ✉️ [Email](sahil.1727shah@gmail.com)
+📄 [Resume](Sahil_Shah_Resume.pdf) • 💼 [LinkedIn](https://www.linkedin.com/in/sahil-shah-s17299s) • ✉️ [Email](mailto:sahil.1727shah@gmail.com)
 
 ---
 
