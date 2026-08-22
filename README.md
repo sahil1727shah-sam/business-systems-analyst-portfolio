@@ -20,7 +20,7 @@ Redesigned the patient booking process for a clinic struggling with duplicate re
 - Delivered: Stakeholder Map, As-Is Process, Gap Analysis, SWOT — [see write-up](./project-1-healthcare/01-stakeholder-map-and-gap-analysis.md)
 - Translated all 6 Gap Analysis findings into a Jira backlog: 6 epics, 6 user stories with Given/When/Then acceptance criteria, Sprint 1 planned and started — [see sprint planning note](./project-1-healthcare/02-sprint-planning-note.md)
 - **Key finding:** identified an unreviewed data-access/compliance risk that hadn't been raised before this analysis
-- Documented in Confluence: Project Overview, Discovery Findings (with live-synced Jira items), and Meeting Notes — see screenshots in (./project-1-healthcare)
+- Documented in Confluence: Project Overview, Discovery Findings (with live-synced Jira items), and Meeting Notes — [see screenshots](./project-1-healthcare)
 
 ### 🛒 [Project 2: E-Commerce Order Management](./project-2-ecommerce)
 *(in progress)*
