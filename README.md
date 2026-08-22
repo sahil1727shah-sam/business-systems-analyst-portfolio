@@ -38,7 +38,7 @@ Daily/weekly notes and exercises as I work through the curriculum — see each w
 |---|---|---|
 | [Week 1](./week-01) | BA Foundations — SDLC, stakeholder analysis, gap analysis, SWOT | ✅ Complete |
 | [Week 2](./week-02) | Agile/Scrum, Jira/Confluence | ✅ Complete |
-| Week 3–4 | SQL | ⏳ Not started |
+| Week 3–4 | SQL | ⏳ In progress |
 | ... | ... | ... |
 
 ---
